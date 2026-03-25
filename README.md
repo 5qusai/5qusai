@@ -1,16 +1,6 @@
-<!-- 🟢 PACMAN GRAPH -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+
 
 ---
-
-<!-- 🧠 LANGUAGES & TOOLS -->
-<h3 align="center">⚡ Languages & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,html,java,css" />
@@ -18,8 +8,6 @@
 
 ---
 
-<!-- 🌐 CONNECT WITH ME -->
-<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/">
