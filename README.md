@@ -1,37 +1,50 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph.svg">
-</picture>
+<!-- 🟢 PACMAN GRAPH -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/5qusai/5qusai/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+<!-- 🧠 LANGUAGES & TOOLS -->
+<h3 align="center">⚡ Languages & Tools</h3>
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,java,css" />
+</p>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50"/>
-</div>
+---
 
-###
+<!-- 🌐 CONNECT WITH ME -->
+<h3 align="center">🌐 Connect With Me</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5qusai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=5qusai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-###
+  <a href="https://www.hackerrank.com/">
+    <img src="https://skillicons.dev/icons?i=hackerrank" />
+  </a>
+
+  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Codeforces-FF6600?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
+</p>
+
+---
+
+<!-- 📊 STATS -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5qusai&layout=compact&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=5qusai&theme=dracula" height="150"/>
+</p>
