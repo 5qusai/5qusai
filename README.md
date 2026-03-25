@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/qusai-qlalweh-b80b71371">
+  <a href="[www.linkedin.com/in/qusai-qlalweh-b80b71371](https://www.linkedin.com/in/qusai-qlalweh-b80b71371/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
