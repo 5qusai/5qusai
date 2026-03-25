@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="[https://www.hackerrank.com](https://www.hackerrank.com/profile/quq5qu)/">
+  <a href="https://www.hackerrank.com/profile/quq5qu">
     <img src="https://skillicons.dev/icons?i=hackerrank" />
   </a>
 
