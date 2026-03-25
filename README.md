@@ -10,27 +10,25 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/qusai-qlalweh-b80b71371">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://www.hackerrank.com/">
+  <a href="[https://www.hackerrank.com](https://www.hackerrank.com/profile/quq5qu)/">
     <img src="https://skillicons.dev/icons?i=hackerrank" />
   </a>
 
-  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+  <a href="https://codeforces.com/profile/qusai.5">
     <img src="https://img.shields.io/badge/Codeforces-FF6600?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="https://leetcode.com/qusai5">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
 </p>
 
 ---
 
-<!-- 📊 STATS -->
-<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5qusai&layout=compact&theme=dracula" height="150"/>
